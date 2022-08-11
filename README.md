@@ -1,7 +1,7 @@
 # Stanford-CS229-Machine-Learning
 ![](simulation3.gif)
 
-(This .gif dynamic figure is from PS4, which is a inverted pendulum trained by reinforce learning)
+(This .gif dynamic figure is from PS4, which is an inverted pendulum trained by reinforce learning)
 
 This repository is my problem set answer when I study Stanford CS229 Machine Learning, Fall 2018.
 
